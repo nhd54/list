@@ -1,0 +1,12 @@
+main {
+    min-height: 90vh;
+}
+
+.material-icons {
+    display:none;
+}
+
+
+.green .material-icons {
+    display: block;
+}
